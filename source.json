@@ -21,7 +21,50 @@
         {
             "url": "https://cproxy.x-wang.tech/proxy/https://github.moeyy.xyz/raw.githubusercontent.com/qist/tvbox/master/jsm.json",
             "name": "线路0828"
+        },
+        {
+            "url": "https://cproxy.x-wang.tech/proxy/https://raw.githubusercontent.com/cliya/TVBox/main/18duocang.json",
+            "name": "18duocang"
+        },
+         {
+            "url": "https://cproxy.x-wang.tech/proxy/https://raw.githubusercontent.com/cliya/TVBox/main/18live.txt",
+            "name": "18live"
+        },
+         {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/18.json",
+            "name": "18live2"
+        },
+         {
+            "url": "https://cproxy.x-wang.tech/proxy/https://cdn.staticaly.com/gh/mengzehe/tvbox/main/18.json",
+            "name": "18live2"
+        },
+
+         {
+            "url": "https://cproxy.x-wang.tech/proxy/https://gitea.com/mengzehe/tvbox/raw/branch/main/18.json",
+            "name": "18live2"
+        },
+         {
+            "url": "https://cproxy.x-wang.tech/proxy/https://raw.githubusercontent.com/yutian88881/tvbox/main/duomv/fuli",
+            "name": "18live2"
         }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
 
 
 

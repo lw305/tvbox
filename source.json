@@ -1,0 +1,28 @@
+{
+    "urls":[
+        {
+            "url": "https://cproxy.x-wang.tech/proxy/https://raw.githubusercontent.com/qist/tvbox/master/0707.json",
+            "name": "线路0707"
+        },
+        {
+            "url": "https://cproxy.x-wang.tech/proxy/https://raw.githubusercontent.com/qist/tvbox/master/0821.json",
+            "name": "线路0821"
+        },
+        {
+            "url": "https://cproxy.x-wang.tech/proxy/https://raw.githubusercontent.com/qist/tvbox/master/0822.json",
+            "name": "线路0822"
+        },
+        {
+            "url": "https://cproxy.x-wang.tech/proxy/https://raw.githubusercontent.com/qist/tvbox/master/0825.json",
+            "name": "线路0825"
+        },
+        {
+            "url": "https://cproxy.x-wang.tech/proxy/https://raw.githubusercontent.com/qist/tvbox/master/0826.json",
+            "name": "线路0826"
+        },
+        {
+            "url": "https://cproxy.x-wang.tech/proxy/https://raw.githubusercontent.com/qist/tvbox/master/0827.json",
+            "name": "线路0827"
+        }
+    ]
+}
